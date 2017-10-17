@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NaiveBayes", "NaiveBayes\NaiveBayes.vcxproj", "{0F7D79E2-30B6-466C-A375-002ADEAF30FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F7D79E2-30B6-466C-A375-002ADEAF30FB}.Debug|ARM.ActiveCfg = Debug|ARM
+		{0F7D79E2-30B6-466C-A375-002ADEAF30FB}.Debug|ARM.Build.0 = Debug|ARM
+		{0F7D79E2-30B6-466C-A375-002ADEAF30FB}.Debug|x64.ActiveCfg = Debug|x64
+		{0F7D79E2-30B6-466C-A375-002ADEAF30FB}.Debug|x64.Build.0 = Debug|x64
+		{0F7D79E2-30B6-466C-A375-002ADEAF30FB}.Debug|x86.ActiveCfg = Debug|x86
+		{0F7D79E2-30B6-466C-A375-002ADEAF30FB}.Debug|x86.Build.0 = Debug|x86
+		{0F7D79E2-30B6-466C-A375-002ADEAF30FB}.Release|ARM.ActiveCfg = Release|ARM
+		{0F7D79E2-30B6-466C-A375-002ADEAF30FB}.Release|ARM.Build.0 = Release|ARM
+		{0F7D79E2-30B6-466C-A375-002ADEAF30FB}.Release|x64.ActiveCfg = Release|x64
+		{0F7D79E2-30B6-466C-A375-002ADEAF30FB}.Release|x64.Build.0 = Release|x64
+		{0F7D79E2-30B6-466C-A375-002ADEAF30FB}.Release|x86.ActiveCfg = Release|x86
+		{0F7D79E2-30B6-466C-A375-002ADEAF30FB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3E4D83D-8DE1-40A1-ABDC-32958963843C}
+	EndGlobalSection
+EndGlobal

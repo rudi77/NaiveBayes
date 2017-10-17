@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="gnb.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Dataset">
+      <UniqueIdentifier>{ea372561-14c7-4d1d-bc45-7184025127cb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="test_labels.txt">
+      <Filter>Dataset</Filter>
+    </Text>
+    <Text Include="test_states.txt">
+      <Filter>Dataset</Filter>
+    </Text>
+    <Text Include="train_labels.txt">
+      <Filter>Dataset</Filter>
+    </Text>
+    <Text Include="train_states.txt">
+      <Filter>Dataset</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="gnb.h" />
+  </ItemGroup>
+</Project>
